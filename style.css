@@ -1,7 +1,7 @@
-body {background-color:black;font-family:arial;color:w}
+body {background-color:magenta;font-family:arial;color:w}
 h1{color:green;font-family:verdana}
 .maindiv{background-color:white;
-font-color:black;width:300px;pad:20px;
-border-radius:25px
+font-color:black;width:300px;pad:30px;
+border-radius:0px
 
 }
